@@ -1,0 +1,18 @@
+Database "TextSaver"
+
+CREATE TABLE `tbluser` (
+  `colID` int(11) NOT NULL AUTO_INCREMENT,
+  `colUser` varchar(20) NOT NULL,
+  `colPassword` int(11) NOT NULL,
+  PRIMARY KEY (`colID`),
+  UNIQUE KEY `colID` (`colID`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+
+CREATE TABLE `tblmessage` (
+  `colID` int(11) NOT NULL AUTO_INCREMENT,
+  `colUserID` int(11) NOT NULL,
+  `colMessage` longtext NOT NULL,
+  `colDate` datetime NOT NULL,
+  PRIMARY KEY (`colID`),
+  UNIQUE KEY `colID` (`colID`)
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=latin1;
