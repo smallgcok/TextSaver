@@ -16,7 +16,9 @@ TextSaver ver 1.0
 2. Designed as a Chat
 3. Add the function to limit number of messages
 4. Add multiple languages (Chinese Traditional, Chinese Simplified, English, Spanish)
+
 ------------------------------------------------中文------------------------------------------------
+
 ***名稱：
 文字備忘錄
 
@@ -36,6 +38,7 @@ TextSaver ver 1.0
 4.加入多種語言 (繁中、簡中、英文、西班牙文)
 
 ------------------------------------------------ESPAÑOL------------------------------------------------
+
 ***NOMBRE: 
 TextSaver
 
