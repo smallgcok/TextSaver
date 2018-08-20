@@ -14,6 +14,7 @@ WEB version source code Link: http://github.com/SmallGCOk/TextSaver"
 
 >>>VERSION INFORMATION: 
 TextSaver ver 1.0
+
 1. Add Intranet and Extranet mode
 2. Designed as a Chat
 3. Add the function to limit number of messages
@@ -32,6 +33,7 @@ TextSaver ver 1.0
 
 >>>版本資訊：
 文字備忘錄 ver 1.0
+
 1.加入內網與外網兩種連線模式
 2.設計成如同即時聊天室
 3.加入可自訂訊息數量
@@ -51,6 +53,7 @@ Enlace de codigo fuente de la version de WEB: http://github.com/SmallGCOk/TextSa
 
 >>>INFORMACION DEL VERSION: 
 TextSaver ver 1.0
+
 1. Agregar modo Intranet y Extranet
 2. Diseñado como un Chat
 3. Agregar la funcion de limitar numero de mensajes
@@ -70,6 +73,7 @@ TextSaver ver 1.0
 
 >>>版本信息：
 文字备忘录 ver 1.0
+
 1.加入内网与外网两种联机模式
 2.设计成如同实时聊天室
 3.加入可自定义讯息数量
