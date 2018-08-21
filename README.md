@@ -1,26 +1,26 @@
-<img src="https://blog.sandboxx.us/wp-content/uploads/2017/09/download-google-play-store-logo.png" />
+<img src="https://blog.sandboxx.us/wp-content/uploads/2017/09/download-google-play-store-logo.png" width="200px" height="50px"/>
 
-------------------------------------------------ENGLISH------------------------------------------------
-
->>>NAME:
-TextSaver
-
->>>SHORT DESCRIPTION:
-Is easier to transfer texts between computers and mobile phones.
-
->>>LONG DESCRIPTION: 
-"TextSaver"
-It is a application easier to transfer texts between computers and mobile phones, the information can also be backup, and can be accessed from the computer through the WEB version, while the mobile phone can access through the APP and the WEB. The APP interface is designed as a Chat.
-WEB version source code Link: http://github.com/SmallGCOk/TextSaver"
-
->>>VERSION INFORMATION: 
-TextSaver ver 1.0
-1. Add Intranet and Extranet mode
-2. Designed as a Chat
-3. Add the function to limit number of messages
-4. Add multiple languages (Chinese Traditional, Chinese Simplified, English, Spanish)
-
-------------------------------------------------中文------------------------------------------------
+------------------------------------------------ENGLISH------------------------------------------------<br />
+<br />
+>>>NAME:<br />
+TextSaver<br />
+<br />
+>>>SHORT DESCRIPTION:<br />
+Is easier to transfer texts between computers and mobile phones.<br />
+<br />
+>>>LONG DESCRIPTION: <br />
+"TextSaver"<br />
+It is a application easier to transfer texts between computers and mobile phones, the information can also be backup, and can be accessed from the computer through the WEB version, while the mobile phone can access through the APP and the WEB. The APP interface is designed as a Chat.<br />
+WEB version source code Link: http://github.com/SmallGCOk/TextSaver"<br />
+<br />
+>>>VERSION INFORMATION: <br />
+TextSaver ver 1.0<br />
+1. Add Intranet and Extranet mode<br />
+2. Designed as a Chat<br />
+3. Add the function to limit number of messages<br />
+4. Add multiple languages (Chinese Traditional, Chinese Simplified, English, Spanish)<br />
+<br />
+------------------------------------------------中文------------------------------------------------<br />
 
 >>>名稱：
 文字備忘錄
