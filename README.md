@@ -1,5 +1,5 @@
 <a href="https://play.google.com/store/apps/details?id=com.smallgcok.textsaver
-"><img src="https://4.bp.blogspot.com/-Ek8NdwJmDss/W3wb3eiAdRI/AAAAAAAABYs/UWJfCbU-EwwzWx3edScdBlsVQB7N2m21ACLcBGAs/s320/download-google-play-store-logo.png" width="200px" height="50px" alt="TextSaver"></a>
+"><img src="https://4.bp.blogspot.com/-Ek8NdwJmDss/W3wb3eiAdRI/AAAAAAAABYs/UWJfCbU-EwwzWx3edScdBlsVQB7N2m21ACLcBGAs/s320/download-google-play-store-logo.png" width="400px" height="100px" alt="TextSaver"></a>
 
 ------------------------------------------------ENGLISH------------------------------------------------<br />
 <br />
