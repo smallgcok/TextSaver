@@ -1,7 +1,7 @@
  <?php
 $dbservername = "www.smallgcok.com";
 $dbusername = "SmallGCOk";
-$dbpassword = "12345689";
+$dbpassword = "123456789";
 $dbname = "TextSaver";
 $dbmessagetable= "tblmessage";
 $dbusertable="tbluser";
