@@ -1,7 +1,3 @@
-﻿<?php
-$_POST["inpUser"] = "SmallGCOk";
-$_POST["inpPassword"] = "1593572468";
-?>
 <!doctype html>
 <html>
 <head>
@@ -192,7 +188,6 @@ input:focus {
  color: #d4d4d4;
 }
 </style>
-
 <script type="text/javascript">
 function focusFieldOne() {
 	<?php
@@ -253,7 +248,21 @@ if ($result) {
     <div class='avatar'><img src='../img/Logo.png' width='50px'  /></div>
   <div class='msj macro'>
     <div class='text-l'>
-      <p>".  $row["colMessage"]. "</p>
+      <p>";
+$reg_exUrl = "/(http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?/";
+
+// The Text you want to filter for urls
+$text =  $row["colMessage"];
+
+// Check if there is a url in the text
+if(preg_match($reg_exUrl, $text, $url)) {
+       // make the urls hyper links
+       echo preg_replace($reg_exUrl, "<a target='_blank' rel='noopener noreferrer' href='".$url[0]."'>".$url[0]."</a> ", $text);
+} else {
+       // if no urls in the text just return the text
+       echo $text;
+}
+	  echo "</p>
     </div>
   </div>
   <div class='text'>
@@ -287,7 +296,7 @@ mysql_free_result($result);
       echo ''; 
   }
   ?>"/>
-  <input id="sendLogin" type="image" id="image" alt="submit" src="../img/ic_refresh.png">
+  <input id="sendLogin" type="image" id="image" alt="submit" src="../img/ic_send.png">
   <input id="inputMessage" name="inputMessage" placeholder="輸入訊息…" value="" type="text" />
   <input id="sendMessage" type="image" id="image" alt="submit" src="../img/ic_send.png">
 </form>
@@ -296,6 +305,6 @@ mysql_free_result($result);
 <br />
 <script>
 window.location.hash = "copyright";
-</script> 
+</script>
 </body>
 </html>
